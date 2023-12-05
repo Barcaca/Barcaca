@@ -20,6 +20,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23fff)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23fff)
+![TAILWIND](https://img.shields.io/badge/Tailwind%20CSS-%20%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 
 <div align="center">
