@@ -22,6 +22,10 @@
 ![SASS](https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23fff)
 ![TAILWIND](https://img.shields.io/badge/Tailwind%20CSS-%20%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![NEXTJS](https://img.shields.io/badge/Next.js-%23000?style=for-the-badge&logo=Next.js&logoColor=%23fff)
+![REACT](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23fff)
+
+
 
 
 <div align="center">
